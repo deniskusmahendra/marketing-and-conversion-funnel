@@ -13,7 +13,7 @@ This analysis solves three fundamental business gaps:
 
 ## Tools I Used
 * **Google Cloud BigQuery:** Engineered backend tables, extracted event metadata parameters, and handled high-velocity JSON records using explicit `UNNEST(items)` array joins.
-* **Power BI Desktop:** Implemented analytical star schemas, authored performance ratio measures via DAX, and developed high-fidelity layout containers.
+* **Power BI:** Implemented analytical star schemas, authored performance ratio measures via DAX, and developed high-fidelity layout containers.
 * **SQL:** Handled conditional aggregations (`COUNT(DISTINCT CASE WHEN)`), session window logic, and data cleansing.
 
 ## The Analysis
